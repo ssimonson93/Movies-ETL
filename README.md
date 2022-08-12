@@ -1,1 +1,2 @@
-# Movies-ETL
+# Overview of Project
+This project was conducted in order to create a clean dataset of movie information from both Wikipedia and the MovieLens website.  AmazingPrime then intends to use this dataset for its Hackathon event, in which team members will analyze the dataset in an attempt to find predictors for low-cost movies that could perform well on their streaming service.  To merge the information from Wikipedia and MovieLens, CSV files were read, cleaned, and compiled into dataframes using Python functions before ultimately being linked and uploaded into a SQL database.
